@@ -1,0 +1,15 @@
+{
+  "name": "chat-portal",
+  "version": "1.0.0",
+  "description": "Just a chat portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanishq Ahuja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
